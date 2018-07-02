@@ -16,4 +16,7 @@ class StaticPagesController < ApplicationController
 
   def help
   end
+
+  def leading
+  end
 end
